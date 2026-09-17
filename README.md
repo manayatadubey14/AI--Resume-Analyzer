@@ -34,4 +34,4 @@ The goal of this project is to help students and job seekers understand how well
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Resume-Analyzer.git
+git clone https://github.com/manayatadubey14/AI--Resume-Analyzer.git
